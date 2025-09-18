@@ -1,0 +1,22 @@
+C:\Users\ahmet\Desktop\VS17 projeleri\Web API Projem\Web API Projem\bin\Debug\netcoreapp2.0\Web API Projem.deps.json
+C:\Users\ahmet\Desktop\VS17 projeleri\Web API Projem\Web API Projem\bin\Debug\netcoreapp2.0\Web API Projem.runtimeconfig.json
+C:\Users\ahmet\Desktop\VS17 projeleri\Web API Projem\Web API Projem\bin\Debug\netcoreapp2.0\Web API Projem.runtimeconfig.dev.json
+C:\Users\ahmet\Desktop\VS17 projeleri\Web API Projem\Web API Projem\bin\Debug\netcoreapp2.0\Web API Projem.dll
+C:\Users\ahmet\Desktop\VS17 projeleri\Web API Projem\Web API Projem\bin\Debug\netcoreapp2.0\Web API Projem.pdb
+C:\Users\ahmet\Desktop\VS17 projeleri\Web API Projem\Web API Projem\obj\Debug\netcoreapp2.0\Web API Projem.csprojAssemblyReference.cache
+C:\Users\ahmet\Desktop\VS17 projeleri\Web API Projem\Web API Projem\obj\Debug\netcoreapp2.0\Web API Projem.csproj.CoreCompileInputs.cache
+C:\Users\ahmet\Desktop\VS17 projeleri\Web API Projem\Web API Projem\obj\Debug\netcoreapp2.0\Web API Projem.AssemblyInfoInputs.cache
+C:\Users\ahmet\Desktop\VS17 projeleri\Web API Projem\Web API Projem\obj\Debug\netcoreapp2.0\Web API Projem.AssemblyInfo.cs
+C:\Users\ahmet\Desktop\VS17 projeleri\Web API Projem\Web API Projem\obj\Debug\netcoreapp2.0\Web API Projem.dll
+C:\Users\ahmet\Desktop\VS17 projeleri\Web API Projem\Web API Projem\obj\Debug\netcoreapp2.0\Web API Projem.pdb
+C:\Users\ahmet\Desktop\VS17 projeleri\Web Sunucusu Projem\Web API Projem\Web API Projem\bin\Debug\netcoreapp2.0\Web API Projem.deps.json
+C:\Users\ahmet\Desktop\VS17 projeleri\Web Sunucusu Projem\Web API Projem\Web API Projem\bin\Debug\netcoreapp2.0\Web API Projem.runtimeconfig.json
+C:\Users\ahmet\Desktop\VS17 projeleri\Web Sunucusu Projem\Web API Projem\Web API Projem\bin\Debug\netcoreapp2.0\Web API Projem.runtimeconfig.dev.json
+C:\Users\ahmet\Desktop\VS17 projeleri\Web Sunucusu Projem\Web API Projem\Web API Projem\bin\Debug\netcoreapp2.0\Web API Projem.dll
+C:\Users\ahmet\Desktop\VS17 projeleri\Web Sunucusu Projem\Web API Projem\Web API Projem\bin\Debug\netcoreapp2.0\Web API Projem.pdb
+C:\Users\ahmet\Desktop\VS17 projeleri\Web Sunucusu Projem\Web API Projem\Web API Projem\obj\Debug\netcoreapp2.0\Web API Projem.csprojAssemblyReference.cache
+C:\Users\ahmet\Desktop\VS17 projeleri\Web Sunucusu Projem\Web API Projem\Web API Projem\obj\Debug\netcoreapp2.0\Web API Projem.csproj.CoreCompileInputs.cache
+C:\Users\ahmet\Desktop\VS17 projeleri\Web Sunucusu Projem\Web API Projem\Web API Projem\obj\Debug\netcoreapp2.0\Web API Projem.AssemblyInfoInputs.cache
+C:\Users\ahmet\Desktop\VS17 projeleri\Web Sunucusu Projem\Web API Projem\Web API Projem\obj\Debug\netcoreapp2.0\Web API Projem.AssemblyInfo.cs
+C:\Users\ahmet\Desktop\VS17 projeleri\Web Sunucusu Projem\Web API Projem\Web API Projem\obj\Debug\netcoreapp2.0\Web API Projem.dll
+C:\Users\ahmet\Desktop\VS17 projeleri\Web Sunucusu Projem\Web API Projem\Web API Projem\obj\Debug\netcoreapp2.0\Web API Projem.pdb
