@@ -1,15 +1,11 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.ComponentModel;
-using System.Data;
 using System.Drawing;
-using System.Linq;
 using System.Text.Json;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 using System.Net.Http;
 using System.Text;
-using System.IO;
 
 namespace WinForms_Projem
 {
@@ -166,6 +162,9 @@ namespace WinForms_Projem
 
         private async void button1_Click(object sender, EventArgs e)
         {
+            string b1text = button1.Text;
+            button1.Text = "Yükleniyor...";
+
             users = new List<User>();
 
             await GetUsers(false);
@@ -177,6 +176,8 @@ namespace WinForms_Projem
             }
 
             createLV(users);
+
+            button1.Text = b1text;
         }
 
         User userToAdd = new User();
@@ -189,17 +190,25 @@ namespace WinForms_Projem
 
             else
             {
+                string b2text = button2.Text;
+                button2.Text = "Yükleniyor...";
+
                 userToAdd.isim = textBox1.Text;
                 userToAdd.yas = (int)borderlessNumericUpDown1.Value;
 
                 await AddUser();
 
                 button1_Click(button1, e);
+
+                button2.Text = b2text;
             }
         }
 
         private async void button3_Click(object sender, EventArgs e)
         {
+            string b3text = button3.Text;
+            button3.Text = "Yükleniyor...";
+
             IDToLookUp = (int)borderlessNumericUpDown2.Value;
 
             users = new List<User>();
@@ -209,10 +218,15 @@ namespace WinForms_Projem
 
             IDToLookUp = 1;
             borderlessNumericUpDown2.Value = 1;
+
+            button3.Text = b3text;
         }
 
         private async void button4_Click(object sender, EventArgs e)
         {
+            string b4text = button4.Text;
+            button4.Text = "Yükleniyor...";
+
             users = new List<User>();
 
             await GetUsers(true);
@@ -224,6 +238,8 @@ namespace WinForms_Projem
             }
 
             createLV(users);
+
+            button4.Text = b4text;
         }
 
         private void textBox1_KeyDown(object sender, KeyEventArgs e)
